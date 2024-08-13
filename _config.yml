@@ -1,7 +1,7 @@
 # site settings
 title: Coach Beau
 subtitle: Cybersecurity Portfolio
-email: beaugilbert93@gmail.com
+email: bgilbert@meritamerica.org
 description: 
 baseurl: "/cybersecurity-portfolio" # the subpath of your site, e.g. /blog
 url: https://coachbeau.github.io # the base hostname & protocol for your site
