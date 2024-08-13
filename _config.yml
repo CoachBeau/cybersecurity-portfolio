@@ -7,8 +7,7 @@ baseurl: "/cybersecurity-portfolio" # the subpath of your site, e.g. /blog
 url: https://coachbeau.github.io # the base hostname & protocol for your site
 author: Beau Gilbert
 city: Portland
-state: OR
-country: United States of America
+state: Oregon
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
