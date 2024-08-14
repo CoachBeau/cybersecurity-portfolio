@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Password Strength Checker</h2>
 		</header>
-		<p><strong>Tools & Processes:</strong> Python, RegEx, functions, conditionals, loops<br>
+		<p><strong>Tools & Processes:</strong> Python, RegEx, functions, conditionals, loops<br><br>
 			My most recent project involved developing a Password Strength Checker with Python. This was an exciting project for me, because it was the first solo project I completed outside of my Google Cybersecurity Certificate coursework.</p>
 	</div>
 </section>
