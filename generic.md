@@ -11,8 +11,8 @@ I am a dedicated career-changer transitioning into the world of Cybersecurity af
 <div>
   <ul class="alt">
   <h3>Skills & Expertise</h3>
-    <strong>Languages:</strong> Python, SQL (BigQuery, MySQL, MSSQL) <br>
-    <strong>Tools:</strong> Linux, Windows, SIEM (Splunk), Network Protocol Analyzers (WireShark, Tcpdump, Nmap), IDS/IPS (Suricata), DAST (Burp Suite, Nessus) <br>
+    <li><strong>Languages:</strong> Python, SQL (BigQuery, MySQL, MSSQL)</li> <br>
+    <li><strong>Tools:</strong> Linux, Windows, SIEM (Splunk), Network Protocol Analyzers (WireShark, Tcpdump, Nmap), IDS/IPS (Suricata), DAST (Burp Suite, Nessus)</li> <br>
     <strong>Security Practices:</strong> Information Security, Network Security (NDR), Vulnerability Assessment, Threat Analysis (IDS/IPS), Log Analysis, Security Frameworks and Controls (NIST) <br>
     <strong>Software Platforms:</strong> Google Workspace, Microsoft Suite, Teams, Slack, ChatGPT, McAfee <br>
     <strong>Strengths:</strong> Problem-Solving, Collaboration, Attention to Detail, Calmness Under Pressure
