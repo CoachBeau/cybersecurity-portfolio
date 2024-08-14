@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 description: 
-image: assets/images/pic11.jpg
+image: assets/images/new-banner.jpg
 nav-menu: true
 ---
 
