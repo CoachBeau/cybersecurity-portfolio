@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Beau'
-description: If I put info here, where does it show up?
+description: <blockquote>If I put info here, where does it show up?
 image: null
 author: null
 show_tile: false
