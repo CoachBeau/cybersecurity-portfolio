@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TryHackMe
-image: assets/images/pic01.jpg
+image: assets/images/p2.jpg
 nav-menu: true
 ---
 
