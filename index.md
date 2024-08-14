@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am a dedicated career-changer transitioning into the world of Cybersecurity after 6 years in the education industry. I recently completed my training with Merit America, which involved 3 months of intensive professional development, completion of the Google Cybersecurity Professional Certificate, and several hands-on technical projects. 
+My most recent project involved developing a Password Strength Checker with Python. This was an exciting project for me, because it was the first solo project I completed outside of my Google Cybersecurity Certificate coursework. I was able to incorporate best practices for password policies, strengthen my understanding of regex, and test my coding capabilities with functions, conditionals, loops, and user input.  
