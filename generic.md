@@ -30,20 +30,18 @@ I am a dedicated career-changer transitioning into the world of Cybersecurity af
 <br>
 <div>
   <h3>Work Experience</h3>
-    <ul class="alt">
-        <li><strong>Job Title</strong> | <em>Company, City, State</em><br>
+        <strong>Job Title</strong> | <em>Company, City, State</em><br>
         Month, Year - Month, Year
         <ul>
             <li>Bullet Point 1</li>
             <li>Bullet Point 2</li>
             <li>Bullet Point 3</li>
-        </ul></li>
-        <li><strong>Job Title</strong> | <em>Company, City, State</em><br>
+        </ul>
+        <strong>Job Title</strong> | <em>Company, City, State</em><br>
         Month, Year - Month, Year
         <ul>
             <li>Bullet Point 1</li>
             <li>Bullet Point 2</li>
             <li>Bullet Point 3</li>
-        </ul></li>
-    </ul>
+        </ul>
 </div>
