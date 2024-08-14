@@ -2,8 +2,8 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Beau'
-description: <blockquote>If I put info here, where does it show up?
-image: assets/images/new-banner.jpg
+description: null
+image: null
 author: null
 show_tile: false
 ---
