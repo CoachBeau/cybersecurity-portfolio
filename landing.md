@@ -2,7 +2,7 @@
 title: Work Samples
 layout: landing
 description: 
-image: assets/images/adi-goldstein-EUsVwEOsblE-unsplash.jpg
+image: assets/images/p2.jpg
 nav-menu: true
 ---
 
