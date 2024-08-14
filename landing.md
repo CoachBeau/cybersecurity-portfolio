@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Password Strength Checker</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p><strong>Tools & Processes:</strong> Python, RegEx, functions, conditionals, loops<br>My most recent project involved developing a Password Strength Checker with Python. This was an exciting project for me, because it was the first solo project I completed outside of my Google Cybersecurity Certificate coursework.</p>
 	</div>
 </section>
 
