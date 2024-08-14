@@ -9,14 +9,12 @@ nav-menu: true
 I am a dedicated career-changer transitioning into the world of Cybersecurity after 6 years in the education industry. I recently completed my training with Merit America, which involved 3 months of intensive professional development, completion of the Google Cybersecurity Professional Certificate, and several hands-on technical projects.
 <br><br>
 <div>
-  <ul class="alt">
   <h3>Skills & Expertise</h3>
-    <li><strong>Languages:</strong> Python, SQL (BigQuery, MySQL, MSSQL)</li>
-    <li><strong>Tools:</strong> Linux, Windows, SIEM (Splunk), Network Protocol Analyzers (WireShark, Tcpdump, Nmap), IDS/IPS (Suricata), DAST (Burp Suite, Nessus)</li>
-    <li><strong>Security Practices:</strong> Information Security, Network Security (NDR), Vulnerability Assessment, Threat Analysis (IDS/IPS), Log Analysis, Security Frameworks and Controls (NIST)</li>
-    <li><strong>Software Platforms:</strong> Google Workspace, Microsoft Suite, Teams, Slack, ChatGPT, McAfee </li>
-    <li><strong>Strengths:</strong> Problem-Solving, Collaboration, Attention to Detail, Calmness Under Pressure </li>
-  </ul>
+    <strong>Languages:</strong> Python, SQL (BigQuery, MySQL, MSSQL)<br>
+    <strong>Tools:</strong> Linux, Windows, SIEM (Splunk), Network Protocol Analyzers (WireShark, Tcpdump, Nmap), IDS/IPS (Suricata), DAST (Burp Suite, Nessus)<br>
+    <strong>Security Practices:</strong> Information Security, Network Security (NDR), Vulnerability Assessment, Threat Analysis (IDS/IPS), Log Analysis, Security Frameworks and Controls (NIST)<br>
+    <strong>Software Platforms:</strong> Google Workspace, Microsoft Suite, Teams, Slack, ChatGPT, McAfee <br>
+    <strong>Strengths:</strong> Problem-Solving, Collaboration, Attention to Detail, Calmness Under Pressure <br>
 </div>
 <br>
 <div>
@@ -32,18 +30,20 @@ I am a dedicated career-changer transitioning into the world of Cybersecurity af
 <br>
 <div>
   <h3>Work Experience</h3>
-    <strong>Job Title</strong> | <em>Company, City, State</em><br>
-    Month, Year - Month, Year
-    <ul>
-      <li>Bullet Point 1</li>
-      <li>Bullet Point 2</li>
-      <li>Bullet Point 3</li>
-    </ul><br>
-    <strong>Job Title</strong> | <em>Company, City, State</em><br>
-    Month, Year - Month, Year
-    <ul>
-      <li>Bullet Point 1</li>
-      <li>Bullet Point 2</li>
-      <li>Bullet Point 3</li>
-    </ul><br>
+    <ul class="alt">
+        <li><strong>Job Title</strong> | <em>Company, City, State</em><br>
+        Month, Year - Month, Year
+        <ul>
+            <li>Bullet Point 1</li>
+            <li>Bullet Point 2</li>
+            <li>Bullet Point 3</li>
+        </ul></li>
+        <li><strong>Job Title</strong> | <em>Company, City, State</em><br>
+        Month, Year - Month, Year
+        <ul>
+            <li>Bullet Point 1</li>
+            <li>Bullet Point 2</li>
+            <li>Bullet Point 3</li>
+        </ul></li>
+    </ul>
 </div>
