@@ -2,7 +2,7 @@
 title: Work Samples
 layout: landing
 description: 
-image: assets/images/p2.jpg
+image: assets/images/p3.jpg
 nav-menu: true
 ---
 
