@@ -15,7 +15,8 @@ nav-menu: true
 		<header class="major">
 			<h2>Password Strength Checker</h2>
 		</header>
-		<p><strong>Tools & Processes:</strong> Python, RegEx, functions, conditionals, loops<br>My most recent project involved developing a Password Strength Checker with Python. This was an exciting project for me, because it was the first solo project I completed outside of my Google Cybersecurity Certificate coursework.</p>
+		<p><strong>Tools & Processes:</strong> Python, RegEx, functions, conditionals, loops<br>
+			My most recent project involved developing a Password Strength Checker with Python. This was an exciting project for me, because it was the first solo project I completed outside of my Google Cybersecurity Certificate coursework.</p>
 	</div>
 </section>
 
@@ -75,11 +76,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>My Journey</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>This is where you should put your Professional Introduction. Pull in your reader here with a short intro to your story, so that they feel intrigued to read more and explore your About Me page in detail.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Read More</a></li>
 		</ul>
 	</div>
 </section>
