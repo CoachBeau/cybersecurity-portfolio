@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Conducted a controls and compliance assessment and provided recommendations to company stakeholders to mitigate risks and avoid fines based on best practices for NIST CSF, PCI DSS, GDPR, SOC 1 & SOC 2.</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view?usp=sharing" class="button">View Audit</a></li>
+					<li><a href="https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view?usp=sharing" class="button" target="_blank">View Audit</a></li>
 				</ul>
 			</div>
 		</div>
@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">View Report</a></li>
+					<li><a href="https://drive.google.com/file/d/1qgQmrH4yzHK6-cdeHpFRvSbdzhjV17pP/view?usp=sharing" class="button" target="_blank">View Report</a></li>
 				</ul>
 			</div>
 		</div>
