@@ -18,7 +18,7 @@ nav-menu: true
 		<p><strong>Tools & Processes:</strong> Python, RegEx, functions, conditionals, loops<br><br>
 			My most recent project involved developing a Password Strength Checker with Python. This was an exciting project for me, because it was the first solo project I completed outside of my Google Cybersecurity Certificate coursework.</p>
 		<ul class="actions">
-			<li><a href="https://youtu.be/dQw4w9WgXcQ?feature=shared" class="button" target="_blank">View Project</a></li>
+			<li><a href="https://youtu.be/2qBlE2-WL60?feature=shared" class="button" target="_blank">View Project</a></li>
 		</ul>
 	</div>
 </section>
