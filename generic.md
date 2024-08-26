@@ -6,11 +6,11 @@ image: assets/images/new-banner.jpg
 nav-menu: true
 ---
 
-I am a dedicated career-changer transitioning into the world of Cybersecurity after 6 years in the education industry. I recently completed my training with Merit America, which involved 3 months of intensive professional development, completion of the Google Cybersecurity Professional Certificate, and several hands-on technical projects.
+I am a dedicated career-changer transitioning into the world of Cybersecurity after 6 years in the education industry. I recently completed my training with Merit America, which involved 5 months of intensive professional development, completion of the Google Cybersecurity Professional Certificate, and several hands-on technical projects.
 <br><br>
 <div>
   <h3>Skills & Expertise</h3>
-    <strong>Languages:</strong> Python, SQL (BigQuery, MySQL, MSSQL)<br>
+    <strong>Languages:</strong> Python, SQL (BigQuery, MySQL, MSSQL), HTML<br>
     <strong>Tools:</strong> Linux, Windows, SIEM (Splunk), Network Protocol Analyzers (WireShark, Tcpdump, Nmap), IDS/IPS (Suricata), DAST (Burp Suite, Nessus)<br>
     <strong>Security Practices:</strong> Information Security, Network Security (NDR), Vulnerability Assessment, Threat Analysis (IDS/IPS), Log Analysis, Security Frameworks and Controls (NIST)<br>
     <strong>Software Platforms:</strong> Google Workspace, Microsoft Suite, Teams, Slack, ChatGPT, McAfee <br>
@@ -20,7 +20,6 @@ I am a dedicated career-changer transitioning into the world of Cybersecurity af
 <div>
   <h3>Education</h3>
     <strong>Google Cybersecurity Professional Certificate</strong> | <em>Merit America</em> <br>
-    Expected completion MM/YYYY
     <ul>
       <li>Cultivated holistic understanding of cybersecurity’s critical role in organizational security, privacy, and success, including how to systematically identify and mitigate risks, threats, and vulnerabilities</li>
       <li>Gained practical experience with Linux, SQL, Python and utilized SIEM tools, IDS, and network protocol analyzers for proactive threat management</li>
