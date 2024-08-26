@@ -31,9 +31,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Security Audit</h3>
 				</header>
-				<p>Conducted a controls and compliance assessment and provided recommendations to company stakeholders to implement NIST CSF best practices, mitigate risks and avoid fines.</p>
+				<p>Conducted a controls and compliance assessment and provided recommendations to company stakeholders to mitigate risks and avoid fines based on best practices for NIST CSF, PCI DSS, GDPR, SOC 1 & SOC 2.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">View Audit</a></li>
+					<li><a href="https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view?usp=sharing" class="button">View Audit</a></li>
 				</ul>
 			</div>
 		</div>
@@ -47,7 +47,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Incident Report Analysis</h3>
 				</header>
-				<p>Identified type of attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations.</p>
+				<p>Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">View Report</a></li>
 				</ul>
